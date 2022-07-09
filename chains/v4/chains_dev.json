@@ -11,7 +11,7 @@
         ],
         "nodes": [
             {
-                "url": "wss://rpc-wss.dfinn.live",
+                "url": "wss://wss.dfinn.live",
                 "name": "Dfinn Labs"
             }
         ],
