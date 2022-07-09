@@ -1,19 +1,18 @@
 [
     {
-        "chainId": "742a2ca70c2fda6cee4f8df98d64c4c670a052d9568058982dad9d5a7a135c5b",
-        "name": "Edgeware",
+        "chainId": "447a2a1d0c7695d387866a94e88e31b695346f04ed76c7d557ec487aa6df87a4",
+        "name": "Dfinn Testnet",
         "assets": [
             {
                 "assetId": 0,
-                "symbol": "EDG",
-                "precision": 18,
-                "priceId": "edgeware"
+                "symbol": "tFINN",
+                "precision": 12
             }
         ],
         "nodes": [
             {
-                "url": "wss://mainnet.edgewa.re",
-                "name": "Commonwealth Labs"
+                "url": "wss://rpc-wss.dfinn.live",
+                "name": "Dfinn Labs"
             }
         ],
         "types": {
@@ -22,9 +21,9 @@
         },
         "explorers": [
             {
-                "name": "Subscan",
-                "extrinsic": "https://edgeware.subscan.io/extrinsic/{hash}",
-                "account": "https://edgeware.subscan.io/account/{address}",
+                "name": "dfinnscan",
+                "extrinsic": "https://dfinnscan.com/extrinsic/{hash}",
+                "account": "https://dfinnscan.com/account/{address}",
                 "event": null
             },
             {
@@ -33,117 +32,7 @@
             }
         ],
         "color": "linear-gradient(315deg, #D43079 0%, #F93C90 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Edgeware.svg",
-        "addressPrefix": 7
-    },
-    {
-        "chainId": "459015af8910a8c68308175c80a3967671183157871fa705e6d5b78149aa9ff5",
-        "name": "Beresheet",
-        "assets": [
-            {
-                "assetId": 0,
-                "symbol": "tEDG",
-                "precision": 18
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://beresheet.edgewa.re",
-                "name": "Commonwealth Labs"
-            }
-        ],
-        "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/types/edgeware.json",
-            "overridesCommon": false
-        },
-        "explorers": [
-            {
-                "name": "Subscan",
-                "extrinsic": "https://edgeware.subscan.io/extrinsic/{hash}",
-                "account": "https://edgeware.subscan.io/account/{address}",
-                "event": null
-            },
-            {
-                "name": "Sub.ID",
-                "account": "https://sub.id/{address}"
-            }
-        ],
-        "color": "linear-gradient(315deg, #000000 0%, #3F3F3F 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Edgeware.svg",
-        "addressPrefix": 7
-    },
-    {
-        "chainId": "feb426ca713f0f46c96465b8f039890370cf6bfd687c9076ea2843f58a6ae8a7",
-        "parentId": "b0a8d493285c2df73290dfb7e61f870f17b41801197a149ca93654499ea3dafe",
-        "name": "Kabocha",
-        "assets": [
-            {
-                "assetId": 0,
-                "symbol": "KAB",
-                "precision": 12,
-                "priceId": "edgeware"
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://kabocha.jelliedowl.com",
-                "name": "JelliedOwl node"
-            }
-        ],
-        "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/kabocha.json",
-            "overridesCommon": true
-        },
-        "color": "linear-gradient(315deg, #C91804 0%, #D15E49 66.15%, #FD7775 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Kabocha.svg",
-        "addressPrefix": 27
-    },
-    {
-        "chainId": "b588d15b45475ed40f7f66b8f9cf6c77a6b9abe04905e7adb2377f4fa13f0eac",
-        "name": "Soupcan",
-        "assets": [
-            {
-                "assetId": 0,
-                "symbol": "tKAB",
-                "precision": 12
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://soupcan1.jelliedowl.com",
-                "name": "JelliedOwl node"
-            }
-        ],
-        "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/kabocha.json",
-            "overridesCommon": true
-        },
-        "color": "linear-gradient(315deg, #C9B904 0%, #D3CD4A 66.15%, #FDF775 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Kabocha.svg",
-        "addressPrefix": 27
-    },
-    {
-        "chainId": "d0af9589988713384dcddcefe742b4847e3b5feb48afeda9c8270ee35e7ea519",
-        "name": "Popart",
-        "assets": [
-            {
-                "assetId": 0,
-                "symbol": "POP",
-                "precision": 12
-            }
-        ],
-        "nodes": [
-            {
-                "url": "wss://popart1.jelliedowl.com",
-                "name": "JelliedOwl node"
-            }
-        ],
-        "types": {
-            "url": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/chains/v2/types/kabocha.json",
-            "overridesCommon": true
-        },
-        "color": "linear-gradient(315deg, #000000 0%, #3F3F3F 100%)",
-        "icon": "https://apps.decentration.org/static/pop.df2e3bf8..svg",
-        "addressPrefix": 42
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/dfinn.png",
+        "addressPrefix": 95
     }
 ]
