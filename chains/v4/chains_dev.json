@@ -32,7 +32,7 @@
             }
         ],
         "color": "linear-gradient(315deg, #D43079 0%, #F93C90 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/dfinn.svg",
-        "addressPrefix": 95
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Acala.svg",
+        "addressPrefix": 42
     }
 ]
