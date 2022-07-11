@@ -1,17 +1,17 @@
 [
     {
-        "chainId": "abd14c8455251829e87c358d21e06dfd1975187e5f71b61496634f0c282f108a",
+        "chainId": "13c9477eb2d37c61f9377ef6e486d96bffda3ef4ed20afee89d077e478158262",
         "name": "Bangalore Testnet",
         "assets": [
             {
                 "assetId": 0,
-                "symbol": "tFINN",
-                "precision": 12
+                "symbol": "DFINN",
+                "precision": 18
             }
         ],
         "nodes": [
             {
-                "url": "wss://wss.dfinn.live",
+                "url": "wss://bangalore.dfinn.live",
                 "name": "Dfinn Labs"
             }
         ],
@@ -33,6 +33,6 @@
         ],
         "color": "linear-gradient(315deg, #D43079 0%, #F93C90 100%)",
         "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/Acala.svg",
-        "addressPrefix": 42
+        "addressPrefix": 77
     }
 ]
