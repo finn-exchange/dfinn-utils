@@ -1,5 +1,5 @@
 {
-  "runtime_id": 46,
+  "runtime_id": 1995,
   "types": {
     "AccountInfo": "AccountInfoWithRefCount",
     "ValidatorPrefs": "ValidatorPrefsWithCommission"
