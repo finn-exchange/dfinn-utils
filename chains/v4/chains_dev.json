@@ -32,7 +32,7 @@
             }
         ],
         "color": "linear-gradient(315deg, #000000 0%, #000000 100%)",
-        "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils/master/icons/tokens/white/dfinn-icon-inverted.svg",
+        "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils/master/icons/tokens/white/finn.svg",
         "addressPrefix": 77
     }
 ]
