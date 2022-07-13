@@ -32,7 +32,7 @@
             }
         ],
         "color": "linear-gradient(315deg, #D43079 0%, #F93C90 100%)",
-        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/dfinn-icon-inverted.svg",
+        "icon": "https://raw.githubusercontent.com/nova-wallet/nova-utils/master/icons/chains/white/dfinn-icon-in.png",
         "addressPrefix": 77
     }
 ]
