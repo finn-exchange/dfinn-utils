@@ -25,31 +25,15 @@
     {
       "name": "Polkadot.js",
       "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Polkadot.js.svg",
-      "url": "https://polkadot.js.org/apps/#",
-      "categories": [
-        "utilities"
-      ]
-    }, 
-    {
-      "name": "Edgeware.app",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Edgeware.png",
-      "url": "https://www.edgeware.app/#/explorer",
-      "categories": [
-        "utilities"
-      ]
-    }, 
-    {
-      "name": "Commonwealth",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Commonwealth.png",
-      "url": "https://commonwealth.im/edgeware",
+      "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbangalore.dfinn.live#/settings",
       "categories": [
         "utilities"
       ]
     }, 
     {
       "name": "Explorer",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Edgeware.png",
-      "url": "https://testnet.edgscan.live",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/dfinn-dapp.png",
+      "url": "https://evm.dfinnscan.com",
       "categories": [
         "evm",
         "test"
@@ -57,8 +41,8 @@
     }, 
     {
       "name": "Faucet",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Edgeware.png",
-      "url": "https://faucet-beresheet.vercel.app",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/dfinn-dapp.png",
+      "url": "https://faucet.dfinn.live",
       "categories": [
         "test"
       ]
