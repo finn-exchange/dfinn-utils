@@ -17,14 +17,14 @@
     {
       "name": "Sub.ID",
       "url": "https://sub.id/#/",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils/master/icons/dapps/color/Sub.ID.png",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils/master/icons/dapps/color/Sub.ID.png",
       "categories": [
         "utilities"
       ]
     },
     {
       "name": "Polkadot.js",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/Polkadot.js.svg",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils//master/icons/dapps/color/Polkadot.js.svg",
       "url": "https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fbangalore.dfinn.live#/settings",
       "categories": [
         "utilities"
@@ -32,7 +32,7 @@
     }, 
     {
       "name": "Explorer",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/dfinn-dapp.png",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils//master/icons/dapps/color/dfinn-dapp.png",
       "url": "https://evm.dfinnscan.com",
       "categories": [
         "evm",
@@ -41,7 +41,7 @@
     }, 
     {
       "name": "Faucet",
-      "icon": "https://raw.githubusercontent.com/finn-exchange/edgeware-utils//master/icons/dapps/color/dfinn-dapp.png",
+      "icon": "https://raw.githubusercontent.com/finn-exchange/dfinn-utils//master/icons/dapps/color/dfinn-dapp.png",
       "url": "https://faucet.dfinn.live",
       "categories": [
         "test"
